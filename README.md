@@ -75,6 +75,51 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
   </tr>
 </table>
 
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="images/infrastructure.webp" height="120" alt="Infrastructure Management" />
+      <p><strong>Infrastructure Management</strong></p>
+      <p>Proactive monitoring, scaling, and maintenance of your cloud environment.</p>
+    </td>
+
+    <td width="33%" align="center">
+      <img src="images/backup.webp" height="120" alt="Backup & Disaster Recovery" />
+      <p><strong>Backup & Disaster Recovery</strong></p>
+      <p>Automated backups and fast recovery options to protect critical data.</p>
+    </td>
+
+    <td width="33%" align="center">
+      <img src="images/security.webp" height="120" alt="Security & Compliance" />
+      <p><strong>Security & Compliance</strong></p>
+      <p>Identity and access control with industry and regulatory compliance standards.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" align="center">
+      <img src="images/migration.webp" height="120" alt="Cloud Architecture & Migration" />
+      <p><strong>Cloud Architecture & Migration</strong></p>
+      <p>Migration of servers, applications, and databases with minimal downtime.</p>
+    </td>
+
+    <td width="33%" align="center">
+      <img src="images/cicd.webp" height="120" alt="CI/CD Pipeline Setup" />
+      <p><strong>CI/CD Pipeline Setup</strong></p>
+      <p>Automated builds, tests, and deployments for faster release cycles.</p>
+    </td>
+
+    <td width="33%" align="center">
+      <img src="images/iac.webp" height="120" alt="Infrastructure as Code" />
+      <p><strong>Infrastructure as Code (IaC)</strong></p>
+      <p>Terraform / CloudFormation based infrastructure with version control.</p>
+    </td>
+  </tr>
+</table>
+
+
+
 ---
 
 
