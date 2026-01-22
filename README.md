@@ -27,15 +27,16 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
 
 <table>
   <tr>
-    <td width="33%">
-      <p align="center">
-        <img src="images/download (5).webp" height="200" alt="CloudDrove" /> 
-      </p>
-      <h4 align="center">We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
-        Our strategies focus on performance, cost, and security from the start.</h4>
-      <p align="center">
-      </p>
-    </td>
+   <td width="33%" align="center">
+  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+
+  <p><strong>Cloud Managed Services</strong></p>
+
+  <h4>
+    We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
+    Our strategies focus on performance, cost, and security from the start.
+  </h4>
+</td>
     <td width="33%">
       <p align="center">
         <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/devops-auto.png" height="200" alt="CloudDrove" />
