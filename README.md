@@ -30,6 +30,9 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
     <td width="33%">
       <p align="center">
         <img src="images/download (5).webp" height="200" alt="Cloudevolve" /> 
+        <p>
+          Cloud Managed Services
+        </p>
       </p>
       <h4 align="center">We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
         Our strategies focus on performance, cost, and security from the start.</h4>
