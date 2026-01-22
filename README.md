@@ -47,66 +47,80 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
     Our strategies focus on performance, cost, and security from the start.
   </h4>
 </td>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/k8s.png" height="160" alt="CloudDrove" />
-      </p>
-      <h4 align="center">Design, deploy, and manage Kubernetes clusters to handle complex workloads with ease and scalability.</h4>
-      <p align="center">
-      </p>
-    </td>
+    <td width="33%" align="center">
+  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+
+  <p><strong>Cloud Managed Services</strong></p>
+
+  <h4>
+    We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
+    Our strategies focus on performance, cost, and security from the start.
+  </h4>
+</td>
   </tr>
   <tr>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-obs.png" height="200" alt="CloudDrove" />
-      </p>
-      <h4 align="center">End-to-end monitoring, logging, and tracing for real-time visibility and faster incident resolution.</h4>
-      <p align="center">
-      </p>
-    </td>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="200" alt="CloudDrove" />
-      </p>
-      <h4 align="center">Security by design: guardrails, least privilege, policy-as-code; aligned to provider & regulatory best practices.</h4>
-      <p align="center">
-      </p>
-    </td>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-ops.png" height="200" alt="CloudDrove" />
-      </p>
-      <h4 align="center">We handle day-to-day cloud ops—patching, scaling, reliability—so your teams focus on product.</h4>
-      <p align="center">
-      </p>
-    </td>
+    <td width="33%" align="center">
+  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+
+  <p><strong>Cloud Managed Services</strong></p>
+
+  <h4>
+    We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
+    Our strategies focus on performance, cost, and security from the start.
+  </h4>
+</td>
+   <td width="33%" align="center">
+  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+
+  <p><strong>Cloud Managed Services</strong></p>
+
+  <h4>
+    We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
+    Our strategies focus on performance, cost, and security from the start.
+  </h4>
+</td>
+    <td width="33%" align="center">
+  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+
+  <p><strong>Cloud Managed Services</strong></p>
+
+  <h4>
+    We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
+    Our strategies focus on performance, cost, and security from the start.
+  </h4>
+</td>
   </tr>
   <tr>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-cost.png" height="200" alt="CloudDrove" />
-      </p>
-      <h4 align="center">Control and reduce spend with rightsizing, reservations/spot, and continuous cost governance without sacrificing performance.</h4>
-      <p align="center">
-      </p>
-    </td>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/ai-ml.png" height="200" alt="CloudDrove" />
-      </p>
-      <h4 align="center">We design, deploy, and manage cloud-based ML pipelines—integrating training, monitoring, scaling, CI/CD, data pipelines, and observability—to deliver reliable, efficient, and production-ready AI systems.</h4>
-      <p align="center">
-      </p>
-    </td>
-     <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-disaster.png" height="200" alt="CloudDrove" />
-      </p>
-      <h4 align="center">We design disaster recovery strategies with high availability, automated backups, and seamless failover to keep your business running smoothly across multi-cloud and hybrid environments, even during disruptions..</h4>
-      <p align="center">
-      </p>
-    </td>
+   <td width="33%" align="center">
+  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+
+  <p><strong>Cloud Managed Services</strong></p>
+
+  <h4>
+    We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
+    Our strategies focus on performance, cost, and security from the start.
+  </h4>
+</td>
+   <td width="33%" align="center">
+  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+
+  <p><strong>Cloud Managed Services</strong></p>
+
+  <h4>
+    We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
+    Our strategies focus on performance, cost, and security from the start.
+  </h4>
+</td>
+    <td width="33%" align="center">
+  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+
+  <p><strong>Cloud Managed Services</strong></p>
+
+  <h4>
+    We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
+    Our strategies focus on performance, cost, and security from the start.
+  </h4>
+</td>
   </tr>
 </table>
 
