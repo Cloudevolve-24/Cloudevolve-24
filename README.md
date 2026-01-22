@@ -24,110 +24,69 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
 
 
 
-
 <table>
-  <tr>
-   <td width="33%" align="center">
-  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+   <tr>
+      <td width="33%" align="center">
+         <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+         <p><strong>Cloud Managed Services</strong></p>
+         <h4>
+            End-to-end management of your cloud infrastructure with 24/7 monitoring and support..
+         </h4>
+      </td>
+      <td width="33%" align="center">
+         <img src="images/download (6).webp" height="200" alt="Cloudevolve" />
+         <p><strong>Cloud Migration</strong></p>
+         <h4>
+            Seamless migration of applications, data, and workloads to AWS, Azure, or GCP.
+         </h4>
+      </td>
+      <td width="33%" align="center">
+         <img src="images/download.webp" height="200" alt="Cloudevolve" />
+         <p><strong>Cloud Optimization</strong></p>
+         <h4>
+            Continuous cost, performance, and resource optimization across your cloud environment.
+         </h4>
+      </td>
+   </tr>
+   <tr>
+      <td width="33%" align="center">
+         <img src="images/download (1).webp" height="200" alt="Cloudevolve" />
+         <p><strong>DevOps & Automation</strong></p>
+         <h4>
+            CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.
+         </h4>
+      </td>
+   </tr>
 
-  <p><strong>Cloud Managed Services</strong></p>
 
-  <h4>
-    End-to-end management of your cloud infrastructure with 24/7 monitoring and support..
-  </h4>
-</td>
-    <td width="33%" align="center">
-  <img src="images/download (6).webp" height="200" alt="Cloudevolve" />
+   <tr>
+      <td width="33%" align="center">
+         <img src="images/download (1).webp" height="200" alt="Cloudevolve" />
+         <p><strong>DevOps & Automation</strong></p>
+         <h4>
+            CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.
+         </h4>
+      </td>
+   </tr>
 
-  <p><strong>Cloud Migration</strong></p>
 
-  <h4>
-   Seamless migration of applications, data, and workloads to AWS, Azure, or GCP.
-  </h4>
-</td>
-    <td width="33%" align="center">
-  <img src="images/download.webp" height="200" alt="Cloudevolve" />
 
-  <p><strong>Cloud Optimization</strong></p>
-
-  <h4>
-    Continuous cost, performance, and resource optimization across your cloud environment.
-  </h4>
-</td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-  <img src="images/download (1).webp" height="200" alt="Cloudevolve" />
-
-  <p><strong>DevOps & Automation</strong></p>
-
-  <h4>
-    CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.
-  </h4>
-</td>
-   
-    
-  </tr>
-  <tr>
-   
-  
-   
-  </tr>
+    <tr>
+      <td width="33%" align="center">
+         <img src="images/download (1).webp" height="200" alt="Cloudevolve" />
+         <p><strong>DevOps & Automation</strong></p>
+         <h4>
+            CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.
+         </h4>
+      </td>
+   </tr>
+   <tr>
+   </tr>
 </table>
 
 
 
 
-
-<table>
-  <tr>
-   <td width="33%" align="center">
-  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
-
-  <p><strong>Cloud Managed Services</strong></p>
-
-  <h4>
-    End-to-end management of your cloud infrastructure with 24/7 monitoring and support..
-  </h4>
-</td>
-    <td width="33%" align="center">
-  <img src="images/download (6).webp" height="200" alt="Cloudevolve" />
-
-  <p><strong>Cloud Migration</strong></p>
-
-  <h4>
-   Seamless migration of applications, data, and workloads to AWS, Azure, or GCP.
-  </h4>
-</td>
-    <td width="33%" align="center">
-  <img src="images/download.webp" height="200" alt="Cloudevolve" />
-
-  <p><strong>Cloud Optimization</strong></p>
-
-  <h4>
-    Continuous cost, performance, and resource optimization across your cloud environment.
-  </h4>
-</td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-  <img src="images/download (1).webp" height="200" alt="Cloudevolve" />
-
-  <p><strong>DevOps & Automation</strong></p>
-
-  <h4>
-    CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.
-  </h4>
-</td>
-   
-    
-  </tr>
-  <tr>
-   
-  
-   
-  </tr>
-</table>
 
 ---
 
