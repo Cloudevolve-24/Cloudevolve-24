@@ -125,28 +125,7 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
 </table>
 
 ---
-## 🌍 Where We Build  
 
-We build scalable and secure solutions on the world's leading cloud platforms.  
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="AWS"/><br><b>AWS</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="Azure"/><br><b>Microsoft Azure</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="Google Cloud"/><br><b>Google Cloud</b>
-    </td>
-    <td align="center" width="180">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="60" alt="DigitalOcean"/><br><b>DigitalOcean</b>
-    </td>
-  </tr>
-</table>
 
 
 ---
