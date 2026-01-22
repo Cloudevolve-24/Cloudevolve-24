@@ -28,89 +28,53 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
 <table>
   <tr>
     <td width="33%" align="center">
-  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
-
-  <p><strong>Cloud Managed Services</strong></p>
-
-  <h4>
-    End-to-end management of your cloud infrastructure with 24/7 monitoring and support.
-  </h4>
-</td>
-
-   <td width="33%" align="center">
-  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
-
-  <p><strong>Cloud Managed Services</strong></p>
-
-  <h4>
-    End-to-end management of your cloud infrastructure with 24/7 monitoring and support.
-  </h4>
-</td>
+      <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+      <p><strong>Cloud Managed Services</strong></p>
+      <p>End-to-end management of your cloud infrastructure with 24/7 monitoring and support.</p>
+    </td>
 
     <td width="33%" align="center">
-  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
-
-  <p><strong>Cloud Managed Services</strong></p>
-
-  <h4>
-    End-to-end management of your cloud infrastructure with 24/7 monitoring and support.
-  </h4>
-</td>
-
-  </tr>
-  <tr>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-obs.png" height="200" alt="Cloudevolve" />
-      </p>
-      <h4 align="center">End-to-end monitoring, logging, and tracing for real-time visibility and faster incident resolution.</h4>
-      <p align="center">
-      </p>
+      <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+      <p><strong>Cloud Observability</strong></p>
+      <p>End-to-end monitoring, logging, and tracing for real-time visibility and faster incident resolution.</p>
     </td>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="200" alt="Cloudevolve" />
-      </p>
-      <h4 align="center">Security by design: guardrails, least privilege, policy-as-code; aligned to provider & regulatory best practices.</h4>
-      <p align="center">
-      </p>
-    </td>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-ops.png" height="200" alt="Cloudevolve" />
-      </p>
-      <h4 align="center">We handle day-to-day cloud ops—patching, scaling, reliability—so your teams focus on product.</h4>
-      <p align="center">
-      </p>
+
+    <td width="33%" align="center">
+      <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+      <p><strong>Cloud Security</strong></p>
+      <p>Security by design with guardrails, least privilege, and policy-as-code aligned to best practices.</p>
     </td>
   </tr>
+
   <tr>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-cost.png" height="200" alt="Cloudevolve" />
-      </p>
-      <h4 align="center">Control and reduce spend with rightsizing, reservations/spot, and continuous cost governance without sacrificing performance.</h4>
-      <p align="center">
-      </p>
+    <td width="33%" align="center">
+      <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-ops.png" height="200" alt="Cloudevolve" />
+      <p><strong>Cloud Operations</strong></p>
+      <p>We handle patching, scaling, and reliability so your teams focus on building products.</p>
     </td>
-    <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/ai-ml.png" height="200" alt="Cloudevolve" />
-      </p>
-      <h4 align="center">We design, deploy, and manage cloud-based ML pipelines—integrating training, monitoring, scaling, CI/CD, data pipelines, and observability—to deliver reliable, efficient, and production-ready AI systems.</h4>
-      <p align="center">
-      </p>
+
+    <td width="33%" align="center">
+      <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-cost.png" height="200" alt="Cloudevolve" />
+      <p><strong>Cloud Cost Optimization</strong></p>
+      <p>Reduce spend with rightsizing, reservations, and continuous cost governance.</p>
     </td>
-     <td width="33%">
-      <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-disaster.png" height="200" alt="Cloudevolve" />
-      </p>
-      <h4 align="center">We design disaster recovery strategies with high availability, automated backups, and seamless failover to keep your business running smoothly across multi-cloud and hybrid environments, even during disruptions..</h4>
-      <p align="center">
-      </p>
+
+    <td width="33%" align="center">
+      <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/ai-ml.png" height="200" alt="Cloudevolve" />
+      <p><strong>AI & ML Platforms</strong></p>
+      <p>Production-ready ML pipelines with monitoring, scaling, CI/CD, and observability.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-disaster.png" height="200" alt="Cloudevolve" />
+      <p><strong>Disaster Recovery</strong></p>
+      <p>High availability, automated backups, and seamless failover across multi-cloud environments.</p>
     </td>
   </tr>
 </table>
+
 
 ---
 ## 🌍 Where We Build  
