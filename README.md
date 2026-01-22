@@ -48,7 +48,7 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
   </h4>
 </td>
     <td width="33%" align="center">
-  <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+  <img src="images/download.webp" height="200" alt="Cloudevolve" />
 
   <p><strong>Cloud Managed Services</strong></p>
 
