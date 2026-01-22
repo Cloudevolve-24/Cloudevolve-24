@@ -2,22 +2,22 @@
   <img width="1000" alt="CloudDrove Banner" src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/clouddrove-github-cover.png" />
 </p>
 
-<h1 align="center">👋 About CloudDrove</h1>
+<h1 align="center">👋 About Cloudevolve</h1>
 <p align="center"><em>DevOps-first company building reliable, secure, and cost-efficient cloud-native solutions.</em></p>
 
 
 
 ---
-## 🌟 About CloudDrove  
+## 🌟 About Cloudevolve  
 
-CloudDrove is not just a DevOps company — **we're your partner in cloud transformation**.  
+Cloudevolve is not just a DevOps company — **we're your partner in cloud transformation**.  
 We help organizations accelerate their cloud journey with laser focus on **automation, cost optimization, and security**, while making operations smoother, predictable, and resilient.  
 
 ---
 
 ## 🚀 Our Services  
 
-At **CloudDrove**, we specialize in building reliable, secure, and cost-efficient cloud solutions. Here's how we can help your team:
+At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficient cloud solutions. Here's how we can help your team:
 
 
 
@@ -29,7 +29,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
   <tr>
     <td width="33%">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-migration.png" height="200" alt="CloudDrove" /> 
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-migration.png" height="200" alt="Cloudevolve" /> 
       </p>
       <h4 align="center">We help you plan and execute your move to the cloud, ensuring a smooth transition with minimal disruption.
         Our strategies focus on performance, cost, and security from the start.</h4>
@@ -38,7 +38,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/devops-auto.png" height="200" alt="CloudDrove" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/devops-auto.png" height="200" alt="Cloudevolve" />
       </p>
       <h4 align="center">Automate infrastructure and workflows to increase efficiency and speed. We implement robust CI/CD, config
         management, and IaC to streamline delivery.</h4>
@@ -47,7 +47,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/k8s.png" height="160" alt="CloudDrove" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/k8s.png" height="160" alt="Cloudevolve" />
       </p>
       <h4 align="center">Design, deploy, and manage Kubernetes clusters to handle complex workloads with ease and scalability.</h4>
       <p align="center">
@@ -57,7 +57,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
   <tr>
     <td width="33%">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-obs.png" height="200" alt="CloudDrove" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-obs.png" height="200" alt="Cloudevolve" />
       </p>
       <h4 align="center">End-to-end monitoring, logging, and tracing for real-time visibility and faster incident resolution.</h4>
       <p align="center">
@@ -65,7 +65,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="200" alt="CloudDrove" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-security.png" height="200" alt="Cloudevolve" />
       </p>
       <h4 align="center">Security by design: guardrails, least privilege, policy-as-code; aligned to provider & regulatory best practices.</h4>
       <p align="center">
@@ -73,7 +73,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-ops.png" height="200" alt="CloudDrove" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-ops.png" height="200" alt="Cloudevolve" />
       </p>
       <h4 align="center">We handle day-to-day cloud ops—patching, scaling, reliability—so your teams focus on product.</h4>
       <p align="center">
@@ -83,7 +83,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
   <tr>
     <td width="33%">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-cost.png" height="200" alt="CloudDrove" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-cost.png" height="200" alt="Cloudevolve" />
       </p>
       <h4 align="center">Control and reduce spend with rightsizing, reservations/spot, and continuous cost governance without sacrificing performance.</h4>
       <p align="center">
@@ -91,7 +91,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/ai-ml.png" height="200" alt="CloudDrove" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/ai-ml.png" height="200" alt="Cloudevolve" />
       </p>
       <h4 align="center">We design, deploy, and manage cloud-based ML pipelines—integrating training, monitoring, scaling, CI/CD, data pipelines, and observability—to deliver reliable, efficient, and production-ready AI systems.</h4>
       <p align="center">
@@ -99,7 +99,7 @@ At **CloudDrove**, we specialize in building reliable, secure, and cost-efficien
     </td>
      <td width="33%">
       <p align="center">
-        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-disaster.png" height="200" alt="CloudDrove" />
+        <img src="https://clouddrove.s3.ca-central-1.amazonaws.com/img/cloud-disaster.png" height="200" alt="Cloudevolve" />
       </p>
       <h4 align="center">We design disaster recovery strategies with high availability, automated backups, and seamless failover to keep your business running smoothly across multi-cloud and hybrid environments, even during disruptions..</h4>
       <p align="center">
