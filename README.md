@@ -28,80 +28,53 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
 
 
 
-
-
-
-
-
 <table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
-      <p><strong>Cloud Managed Services</strong></p>
-      <p>End-to-end management of your cloud infrastructure with 24/7 monitoring and support.</p>
-    </td>
+   <tr>
+      <td width="33%" align="center">
+         <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+         <p><strong>Cloud Managed Services</strong></p>
+         <h4>
+            End-to-end management of your cloud infrastructure with 24/7 monitoring and support..
+         </h4>
+      </td>
+      <td width="33%" align="center">
+         <img src="images/download (6).webp" height="200" alt="Cloudevolve" />
+         <p><strong>Cloud Migration</strong></p>
+         <h4>
+            Seamless migration of applications, data, and workloads to AWS, Azure, or GCP.
+         </h4>
+      </td>
+      <td width="33%" align="center">
+         <img src="images/download.webp" height="200" alt="Cloudevolve" />
+         <p><strong>Cloud Optimization</strong></p>
+         <h4>
+            Continuous cost, performance, and resource optimization across your cloud environment.
+         </h4>
+      </td>
+   </tr>
+   <tr>
+      <td width="33%" align="center">
+         <img src="images/download (1).webp" height="200" alt="Cloudevolve" />
+         <p><strong>DevOps & Automation</strong></p>
+         <h4>
+            CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.
+         </h4>
+      </td>
+   </tr>
 
-    <td width="33%" align="center">
-      <img src="images/download (6).webp" height="200" alt="Cloudevolve" />
-      <p><strong>Cloud Migration</strong></p>
-      <p>Seamless migration of applications, data, and workloads to AWS, Azure, or GCP.</p>
-    </td>
 
-    <td width="33%" align="center">
-      <img src="images/download.webp" height="200" alt="Cloudevolve" />
-      <p><strong>Cloud Optimization</strong></p>
-      <p>Continuous cost, performance, and resource optimization across your cloud environment.</p>
-    </td>
-  </tr>
+   
 
-  <tr>
-    <td width="33%" align="center">
-      <img src="images/download (1).webp" height="200" alt="Cloudevolve" />
-      <p><strong>DevOps & Automation</strong></p>
-      <p>CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.</p>
-    </td>
 
-    <td width="33%" align="center">
-      <img src="images/cloud-security.webp" height="200" alt="Cloudevolve" />
-      <p><strong>Cloud Security</strong></p>
-      <p>Identity, access management, and security best practices to protect your workloads.</p>
-    </td>
-
-    <td width="33%" align="center">
-      <img src="images/cloud-monitoring.webp" height="200" alt="Cloudevolve" />
-      <p><strong>Monitoring & Observability</strong></p>
-      <p>Real-time monitoring, logging, and alerting for improved system visibility.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="33%" align="center">
-      <img src="images/backup.webp" height="200" alt="Cloudevolve" />
-      <p><strong>Backup & Disaster Recovery</strong></p>
-      <p>Automated backups and disaster recovery strategies to ensure business continuity.</p>
-    </td>
-
-    <td width="33%" align="center">
-      <img src="images/iac.webp" height="200" alt="Cloudevolve" />
-      <p><strong>Infrastructure as Code (IaC)</strong></p>
-      <p>Terraform and CloudFormation-based infrastructure with version control.</p>
-    </td>
-
-    <td width="33%" align="center">
-      <img src="images/architecture.webp" height="200" alt="Cloudevolve" />
-      <p><strong>Cloud Architecture Design</strong></p>
-      <p>Scalable, secure, and cost-efficient cloud architectures tailored to your needs.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="33%" align="center">
-      <img src="images/finops.webp" height="200" alt="Cloudevolve" />
-      <p><strong>FinOps & Cost Governance</strong></p>
-      <p>Budgeting, forecasting, and governance to control and optimize cloud spending.</p>
-    </td>
-  </tr>
+    
+   <tr>
+   </tr>
 </table>
+
+
+
+
+
 
 
 
