@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" alt="CloudDrove Banner" src="assets/images/1767330937764.jpg" />
+  <img width="1000" alt="clouevolve banner" src="./assets/images/1767330937764.jpg" />
 </p>
 
 <h1 align="center">👋 About Cloudevolve</h1>
