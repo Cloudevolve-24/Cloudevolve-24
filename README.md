@@ -80,48 +80,54 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
 
 
 
-<section class="services">
-  <div class="services-grid">
-
-    <div class="service-card">
-      <div class="icon-circle">🗄️</div>
-      <h3>Infrastructure Management</h3>
-      <p>Proactive monitoring, scaling, and maintenance of your cloud environment.</p>
-    </div>
-
-    <div class="service-card">
-      <div class="icon-circle">☁️</div>
-      <h3>Backup & Disaster Recovery</h3>
-      <p>Automated backups and fast recovery options to protect critical data.</p>
-    </div>
-
-    <div class="service-card">
-      <div class="icon-circle">🛡️</div>
-      <h3>Security & Compliance</h3>
-      <p>Identity and access control with compliance standards.</p>
-    </div>
-
-    <div class="service-card">
-      <div class="icon-circle">➡️</div>
-      <h3>Cloud Architecture & Migration</h3>
-      <p>Migration of servers, apps, and databases with minimal downtime.</p>
-    </div>
-
-    <div class="service-card">
-      <div class="icon-circle">⚙️</div>
-      <h3>CI/CD Pipeline Setup</h3>
-      <p>Automate builds, tests, and deployments for faster release cycles.</p>
-    </div>
-
-    <div class="service-card">
-      <div class="icon-circle">💻</div>
-      <h3>Infrastructure as Code (IaC)</h3>
-      <p>Terraform/CloudFormation-based infrastructure with version control.</p>
-    </div>
-
-  </div>
-</section>
-
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60" />
+      <br /><br />
+      <b>Infrastructure Management</b>
+      <br />
+      Proactive monitoring, scaling, and maintenance of your cloud environment.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/4762/4762311.png" width="60" />
+      <br /><br />
+      <b>Backup & Disaster Recovery</b>
+      <br />
+      Automated backups and fast recovery options to protect critical data.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="60" />
+      <br /><br />
+      <b>Security & Compliance</b>
+      <br />
+      Identity and access control with compliance standards.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/4149/4149645.png" width="60" />
+      <br /><br />
+      <b>Cloud Architecture & Migration</b>
+      <br />
+      Migration of servers, apps, and databases with minimal downtime.
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="60" />
+      <br /><br />
+      <b>CI/CD Pipeline Setup</b>
+      <br />
+      Automate builds, tests, and deployments for faster release cycles.
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="60" />
+      <br /><br />
+      <b>Infrastructure as Code (IaC)</b>
+      <br />
+      Terraform / CloudFormation based infrastructure with version control.
+    </td>
+  </tr>
+</table>
 
 
 
