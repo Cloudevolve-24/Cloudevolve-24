@@ -106,7 +106,7 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/4149/4149645.png" width="60" />
+      <img src="/images/archi-Dm-Xd9lB.webp" width="60" />
       <br /><br />
       <b>Cloud Architecture & Migration</b>
       <br />
