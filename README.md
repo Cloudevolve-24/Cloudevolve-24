@@ -350,8 +350,8 @@ Our expertise spans a wide range of cutting-edge technologies and tools to deliv
 ---
 ## 🏗️ Join Our Slack Community
 
-Join our vibrant open-source slack community and embark on an ever-evolving journey with CloudDrove; helping you in moving upwards in your career path.
-Join our vibrant Open Source Slack Community and embark on a learning journey with CloudDrove. Grow with us in the world of DevOps and set your career on a path of consistency.
+Join our vibrant open-source slack community and embark on an ever-evolving journey with CloudEvolve; helping you in moving upwards in your career path.
+Join our vibrant Open Source Slack Community and embark on a learning journey with CloudEvolve. Grow with us in the world of DevOps and set your career on a path of consistency.
 
 🌐💬What you'll get after joining this Slack community:
 
@@ -359,12 +359,10 @@ Join our vibrant Open Source Slack Community and embark on a learning journey wi
 - 🌈 Learning companionship with our DevOps squad.
 - 🌱 Relentless growth with daily updates on new advancements in technologies.
 
-Join our tech elites [Join Now](https://www.launchpass.com/devops-talks) 🚀
-
 ---
 
 ## 📚 Explore Our Blogs  
-[👉 Click here](https://blog.clouddrove.com/) to read our latest insights and updates.  
+[👉 Click here](https://blogs.cloudevolve.com/) to read our latest insights and updates.  
 
 ---
 
@@ -377,6 +375,6 @@ Join our tech elites [Join Now](https://www.launchpass.com/devops-talks) 🚀
 
 | 🌐 Website | ✉️ Email |
 |----------|------------|
-| [clouddrove.com](https://clouddrove.com) | [business@clouddrove.com](mailto:business@clouddrove.com) |
+| [cloudevolve.com](https://cloudevolve.com/) | [info@cloudevolve.com] |
 
 </div>
