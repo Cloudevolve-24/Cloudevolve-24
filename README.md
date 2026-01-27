@@ -113,7 +113,7 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
       Migration of servers, apps, and databases with minimal downtime.
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="60" />
+      <img src="/images/pipe-DDROA9vf.webp" width="60" />
       <br /><br />
       <b>CI/CD Pipeline Setup</b>
       <br />
