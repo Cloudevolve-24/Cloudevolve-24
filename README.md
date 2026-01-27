@@ -27,72 +27,103 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
 
 
 
+
+<table>
+   <tr>
+      <td width="33%" align="center">
+         <img src="images/download (5).webp" height="200" alt="Cloudevolve" />
+         <p><strong>Cloud Managed Services</strong></p>
+         <h4>
+            End-to-end management of your cloud infrastructure with 24/7 monitoring and support..
+         </h4>
+      </td>
+      <td width="33%" align="center">
+         <img src="images/download (6).webp" height="200" alt="Cloudevolve" />
+         <p><strong>Cloud Migration</strong></p>
+         <h4>
+            Seamless migration of applications, data, and workloads to AWS, Azure, or GCP.
+         </h4>
+      </td>
+      <td width="33%" align="center">
+         <img src="images/download.webp" height="200" alt="Cloudevolve" />
+         <p><strong>Cloud Optimization</strong></p>
+         <h4>
+            Continuous cost, performance, and resource optimization across your cloud environment.
+         </h4>
+      </td>
+   </tr>
+   <tr>
+      <td width="33%" align="center">
+         <img src="images/download (1).webp" height="200" alt="Cloudevolve" />
+         <p><strong>DevOps & Automation</strong></p>
+         <h4>
+            CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.
+         </h4>
+      </td>
+
+
+    
+   </tr>
+
+
+
+   
+
+   
+
+
+    
+   <tr>
+   </tr>
+</table>
+
+
+
+
 <table align="center">
   <tr>
-    <td width="33%" align="center">
-      <img src="images/download (5).webp" height="150" />
-      <br><br>
-      <b>Cloud Managed Services</b><br>
-      End-to-end management of your cloud infrastructure with 24/7 monitoring and support.
-    </td>
-
-    <td width="33%" align="center">
-      <img src="images/download (6).webp" height="150" />
-      <br><br>
-      <b>Cloud Migration</b><br>
-      Seamless migration of applications, data, and workloads to AWS, Azure, or GCP.
-    </td>
-
-    <td width="33%" align="center">
-      <img src="images/download.webp" height="150" />
-      <br><br>
-      <b>Cloud Optimization</b><br>
-      Continuous cost, performance, and resource optimization across your cloud environment.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="33%" align="center">
-      <img src="images/download (1).webp" height="150" />
-      <br><br>
-      <b>DevOps & Automation</b><br>
-      CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.
-    </td>
-
-    <td width="33%" align="center">
+    <td align="center" width="33%">
       <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60" />
-      <br><br>
-      <b>Infrastructure Management</b><br>
+      <br /><br />
+      <b>Infrastructure Management</b>
+      <br />
       Proactive monitoring, scaling, and maintenance of your cloud environment.
     </td>
-
-    <td width="33%" align="center">
+    <td align="center" width="33%">
       <img src="https://cdn-icons-png.flaticon.com/512/4762/4762311.png" width="60" />
-      <br><br>
-      <b>Backup & Disaster Recovery</b><br>
+      <br /><br />
+      <b>Backup & Disaster Recovery</b>
+      <br />
       Automated backups and fast recovery options to protect critical data.
     </td>
-  </tr>
-
-  <tr>
-    <td width="33%" align="center">
+    <td align="center" width="33%">
       <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="60" />
-      <br><br>
-      <b>Security & Compliance</b><br>
+      <br /><br />
+      <b>Security & Compliance</b>
+      <br />
       Identity and access control with compliance standards.
     </td>
-
-    <td width="33%" align="center">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/4149/4149645.png" width="60" />
-      <br><br>
-      <b>Cloud Architecture & Migration</b><br>
+      <br /><br />
+      <b>Cloud Architecture & Migration</b>
+      <br />
       Migration of servers, apps, and databases with minimal downtime.
     </td>
-
-    <td width="33%" align="center">
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="60" />
+      <br /><br />
+      <b>CI/CD Pipeline Setup</b>
+      <br />
+      Automate builds, tests, and deployments for faster release cycles.
+    </td>
+    <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="60" />
-      <br><br>
-      <b>Infrastructure as Code (IaC)</b><br>
+      <br /><br />
+      <b>Infrastructure as Code (IaC)</b>
+      <br />
       Terraform / CloudFormation based infrastructure with version control.
     </td>
   </tr>
