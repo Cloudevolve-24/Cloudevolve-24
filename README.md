@@ -120,7 +120,7 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
       Automate builds, tests, and deployments for faster release cycles.
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="60" />
+      <img src="/images/code-BbtUAql3.webp" width="60" />
       <br /><br />
       <b>Infrastructure as Code (IaC)</b>
       <br />
