@@ -83,21 +83,21 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60" />
+      <img src="/images/infra-BHSzr9dO1.webp" width="60" />
       <br /><br />
       <b>Infrastructure Management</b>
       <br />
       Proactive monitoring, scaling, and maintenance of your cloud environment.
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/4762/4762311.png" width="60" />
+      <img src="/images/backup-B-sJGuSf2.webp" width="60" />
       <br /><br />
       <b>Backup & Disaster Recovery</b>
       <br />
       Automated backups and fast recovery options to protect critical data.
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="60" />
+      <img src="/images/security-cFUCTZ4q3.webp" width="60" />
       <br /><br />
       <b>Security & Compliance</b>
       <br />
