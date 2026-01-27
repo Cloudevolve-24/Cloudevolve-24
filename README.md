@@ -62,30 +62,7 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
       </td>
 
 
-      <td width="33%" align="center">
-         <img src="images/download (1).webp" height="200" alt="Cloudevolve" />
-         <p><strong>DevOps & Automation</strong></p>
-         <h4>
-            CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.
-         </h4>
-      </td>
-
-       <td width="33%" align="center">
-         <img src="images/download (1).webp" height="200" alt="Cloudevolve" />
-         <p><strong>DevOps & Automation</strong></p>
-         <h4>
-            CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.
-         </h4>
-      </td>
-
-
-       <td width="33%" align="center">
-         <img src="images/download (1).webp" height="200" alt="Cloudevolve" />
-         <p><strong>DevOps & Automation</strong></p>
-         <h4>
-            CI/CD setup, automation pipelines, and infrastructure-as-code for faster delivery.
-         </h4>
-      </td>
+    
    </tr>
 
 
