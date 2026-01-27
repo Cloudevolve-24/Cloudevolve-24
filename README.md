@@ -80,6 +80,47 @@ At **Cloudevolve**, we specialize in building reliable, secure, and cost-efficie
 
 
 
+<section class="services">
+  <div class="services-grid">
+
+    <div class="service-card">
+      <div class="icon-circle">🗄️</div>
+      <h3>Infrastructure Management</h3>
+      <p>Proactive monitoring, scaling, and maintenance of your cloud environment.</p>
+    </div>
+
+    <div class="service-card">
+      <div class="icon-circle">☁️</div>
+      <h3>Backup & Disaster Recovery</h3>
+      <p>Automated backups and fast recovery options to protect critical data.</p>
+    </div>
+
+    <div class="service-card">
+      <div class="icon-circle">🛡️</div>
+      <h3>Security & Compliance</h3>
+      <p>Identity and access control with compliance standards.</p>
+    </div>
+
+    <div class="service-card">
+      <div class="icon-circle">➡️</div>
+      <h3>Cloud Architecture & Migration</h3>
+      <p>Migration of servers, apps, and databases with minimal downtime.</p>
+    </div>
+
+    <div class="service-card">
+      <div class="icon-circle">⚙️</div>
+      <h3>CI/CD Pipeline Setup</h3>
+      <p>Automate builds, tests, and deployments for faster release cycles.</p>
+    </div>
+
+    <div class="service-card">
+      <div class="icon-circle">💻</div>
+      <h3>Infrastructure as Code (IaC)</h3>
+      <p>Terraform/CloudFormation-based infrastructure with version control.</p>
+    </div>
+
+  </div>
+</section>
 
 
 
